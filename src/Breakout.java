@@ -34,9 +34,12 @@ public class Breakout extends GraphicsProgram {
 
     **6) how can I make some bricks contain / be power ups?
 
+         make a variable when you create the bricks to assign whether there is a power up.
+
     7) how can I make the game have more than one level?
 
     8) effects when a brick breaks?
+
 
      */
 
